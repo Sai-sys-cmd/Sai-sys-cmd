@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai!</h1>
-<h3 align="center">Grade 11 Student 🎓 | Aspiring Software Engineer 💻</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); letter-spacing: 1px; line-height: 1.5;"> Hey, what's up 🤙, I’m Sai! 👨‍💻 </h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); letter-spacing: 1px; line-height: 1.5;">Grade 11 Student 🎓 | Aspiring Software Engineer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-sys-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="sai-sys-cmd" /> </p>
 
