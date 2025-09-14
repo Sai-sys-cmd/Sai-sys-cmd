@@ -5,7 +5,7 @@
 
 - 👨‍💻 Founder and President of J. Clarke Richardson's **Computer Engineering Club**
 
-- 🇨🇦 Excited to be attending **Hack the North 2025 at the University of Waterloo**
+- 🇨🇦 Attended **Hack the North 2025 at the University of Waterloo**
 
 - 👯 I’m looking to collaborate on [Dark Operating System](https://github.com/Sai-sys-cmd/Dark-Operating-System)
 
