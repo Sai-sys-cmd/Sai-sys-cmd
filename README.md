@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas Khandavilli</h1>
-<h3 align="center">A high school senior interested in technology, AI, robotics, and software development.</h3>
+<h3 align="center">A UWaterloo first-year interested in technology, AI, robotics, and software development.</h3>
 
 - 🔭 I’m currently working at **DigiPix Inc. as an AI and Software Developer**
 
